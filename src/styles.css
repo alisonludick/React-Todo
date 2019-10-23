@@ -60,6 +60,7 @@ h1 {
 .item.completed {
   background-color: #d17d7c;
   text-decoration: line-through;
+  text-decoration-color: #2d2d37;
 }
 form {
   width: 50%;
