@@ -75,6 +75,12 @@ form {
   display: flex;
   justify-content: flex-end;
 }
+@media screen and (max-width: 480px) {
+  form {
+    justify-content: center; 
+    align-items: center;
+  }
+}
 form > input {
   background-color: #2d2d37;
   border: 0;
