@@ -37,6 +37,12 @@ span {
   justify-content: space-between;
   align-items: center;
 }
+@media screen and (max-width: 480px) {
+  .header {
+    flex-direction: column;
+  }
+}
+
 h1 {
   text-align: left;
 }
