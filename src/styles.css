@@ -79,6 +79,7 @@ form {
   form {
     justify-content: center; 
     align-items: center;
+    margin-bottom: 16px;
   }
 }
 form > input {
@@ -113,5 +114,6 @@ input::placeholder {
   .clear-btn {
     justify-content: center; 
     align-items: center;
+    margin-left: 50px;
   }
 }
