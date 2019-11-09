@@ -7,32 +7,32 @@ import "./styles.css";
 
 const todolist = [
   {
-    task: "Fetch dry-cleaning",
+    task: "Deposit money",
     id: 123,
     completed: false
   },
   {
-    task: "Make bed",
+    task: "Shop for groceries",
     id: 124,
     completed: false
   },
   {
-    task: "Feed pets",
+    task: "Dentist appointment",
     id: 1235,
     completed: false
   },
   {
-    task: "Hang laundry",
+    task: "Pay accountant",
     id: 1246,
     completed: false
   },
   {
-    task: "Drink water",
+    task: "Research adopt-a-pet",
     id: 1237,
     completed: false
   },
   {
-    task: "Make bed",
+    task: "Morning coffee",
     id: 1248,
     completed: false
   }
